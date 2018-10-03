@@ -1,3 +1,3 @@
 # github_training
 
-modified the training file
+This is the readme for the training. Anything goes here.
